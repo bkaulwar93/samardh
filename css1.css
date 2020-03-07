@@ -1,0 +1,44 @@
+
+.btn {
+
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+  background-color: blue;
+  width: 300px;
+    height: 80px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+
+
+}
+
+
+.btn2 {
+
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+  background-color: blue;
+  width: 300px;
+    height: 80px;
+  background-color: #3f89d9;
+  cursor: pointer;
+  box-shadow: 0 7px #2c6fb8;
+
+
+}
+
+
+.btn:hover {
+  opacity: 1;
+}
+
+.btn2:hover {
+  opacity: 1;
+}

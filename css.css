@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+}
+a,p{
+  color:#fff;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+  background-color: blue;
+}
+
+.btn:hover {
+  opacity: 1;
+}

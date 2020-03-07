@@ -1,0 +1,97 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+th {
+  text-align: left;
+}
+table {
+  border-spacing: 5px;
+}
+td#t01 {
+  width: 100%;
+  background-color: #ffffff;
+}
+td#t02 {
+  width: 100%;
+  background-color: #fff0e6;
+}
+td#t03 {
+  width: 100%;
+  background-color: #ffe0cc;
+}
+td#t04 {
+  width: 100%;
+  background-color: #ffd1b3;
+}
+td#t05{
+  width: 100%;
+  background-color: #ffc299;
+}
+td#t06{
+  width: 100%;
+  background-color: #ffb380;
+}
+td#t07{
+  width: 100%;
+  background-color:#ffa366;
+}
+td#t08{
+  width: 100%;
+  background-color: #ff944d;
+}
+td#t09{
+  width: 100%;
+  background-color: #ff8533;
+}
+td#t010{
+  width: 100%;
+  background-color: #ff751a;
+}
+td#t011{
+  width: 100%;
+  background-color: #ff6600;
+}
+td#t012{
+  width: 100%;
+  background-color:#e65c00;
+}
+td#t013{
+  width: 100%;
+  background-color: #cc5200;
+}
+td#t014{
+  width: 100%;
+  background-color: #b34700;
+}
+td#t015{
+  width: 100%;
+  background-color: #993d00;
+}
+td#t016{
+  width: 100%;
+  background-color: #803300;
+}
+td#t017{
+  width: 100%;
+  background-color: #662900;
+}
+td#t018{
+  width: 100%;
+  background-color: #4d1f00;
+}
+td#t019{
+  width: 100%;
+  background-color:  #331400;
+}
+td#t020{
+  width: 100%;
+  background-color:  #1a0a00;
+}
+td#t021{
+  width: 100%;
+  background-color:  #000000;
+}
